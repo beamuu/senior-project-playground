@@ -1,0 +1,9 @@
+{
+  "name": "senior-project-playground",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "repository": "https://github.com/nutchanonc/senior-project-playground.git",
+  "author": "nutchanonc <nutchanonc@github.com>",
+  "license": "MIT"
+}
